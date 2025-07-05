@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e24b288b06ad5c64c9564ba540a2f965
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303896
+  packageName: KCISA - HWASEONG HAENGGUNG Ver.2024 - Korean Traditional Palace
+  packageVersion: 1.0
+  assetPath: Assets/HwaseongHaenggung/Settings/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 712877
